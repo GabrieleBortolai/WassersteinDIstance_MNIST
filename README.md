@@ -1,1 +1,1 @@
-This algorithm handles the 2-Wasserstein distance among a sub set of MNIST images.
+This algorithm handles the 2-Wasserstein distance among a subset of MNIST images.
