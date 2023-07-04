@@ -1,0 +1,1 @@
+# WassersteinDIstance_MNIST
